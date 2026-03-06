@@ -1,8 +1,6 @@
-// I added a new controller
-
+// add controller
 const db = require("../models");
 
-// more comments
 
+// I added a new controller
 
-// more
